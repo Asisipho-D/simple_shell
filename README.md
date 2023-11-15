@@ -3,6 +3,7 @@ TASK 1. Simple shell 0.1
 Write a UNIX command line interpreter.
 
 Usage: simple_shell
+
 Your Shell should:
 
 Display a prompt and wait for the user to type a command. A command line always ends with a new line.
