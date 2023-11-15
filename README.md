@@ -1,6 +1,7 @@
 Simple_shell
 
 TASK 1. Simple shell 0.1
+
 Write a UNIX command line interpreter.
 
 Usage: simple_shell
@@ -17,8 +18,13 @@ You have to handle the “end of file” condition (Ctrl+D)
 You don’t have to:
 
 use the PATH
+
 implement built-ins
+
 handle special characters : ", ', `, \, *, &, #
+
 be able to move the cursor
+
 handle commands with arguments
+
 execve will be the core part of your Shell, don’t forget to pass the environ to it…
